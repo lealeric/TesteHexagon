@@ -56,8 +56,7 @@ A aplicação permite a gestão de registros de pessoas, oferecendo as seguintes
 │   ├── PessoasController.cs
 │── Models
 │   ├── Pessoa.cs
-│── Data
-│   ├── MeuBancoContext.cs
+|   ├── MeuBancoContext.cs
 │── Program.cs
 ```
 
