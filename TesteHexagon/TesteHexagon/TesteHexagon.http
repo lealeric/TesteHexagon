@@ -1,0 +1,6 @@
+@TesteHexagon_HostAddress = http://localhost:5038
+
+GET {{TesteHexagon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
